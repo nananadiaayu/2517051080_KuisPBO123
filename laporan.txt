@@ -1,0 +1,5 @@
+=== STRUK RIWAYAT TRANSAKSI - Toko Sukses Makmur ===
+1. Pelanggan: Andi (ACT-01) | Produk: Laptop Premium (OBJ-A) | Qty: 3 | Total: Rp47,250,000
+2. Pelanggan: Rina (ACT-02) | Produk: Snack Ekonomis (OBJ-C) | Qty: 2 | Total: Rp19,000
+3. Pelanggan: Rina (ACT-02) | Produk: Laptop Premium (OBJ-A) | Qty: 1 | Total: Rp15,750,000
+=== Total transaksi berhasil: 3 ===
